@@ -1,0 +1,6 @@
+@ApiPruebaPokedex_HostAddress = http://localhost:5105
+
+GET {{ApiPruebaPokedex_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
